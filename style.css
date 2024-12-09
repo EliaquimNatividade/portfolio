@@ -1,0 +1,77 @@
+html {
+  background-color: rgb(3, 17, 65);
+  color: white;
+}
+nav ul li {
+  display:inline;
+  margin: 30px;
+  padding: 10px 20px 10px;
+ 
+  
+}
+li {
+  border: solid;
+  padding: 10px;
+}
+a {
+  text-decoration: none;
+  color: black;
+  font-family: arial;
+  color: white;
+}
+ul {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  padding: 10px;
+  
+}
+/*       Formacoes e sobremim clonadas para ter um aspecto igual com bordas e fontes iguais como tambem as margens             */
+
+.formacoes {
+  background-color: rgb(27,41,124);
+  padding: 80px;
+  margin: 150px;
+  border-radius: 30px;
+  border: solid 2px rgb(121, 118, 118);
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#sobremim {
+  background-color: rgb(27,41,124);
+  padding: 80px;
+  margin: 150px;
+  border-radius: 30px;
+  border: solid 2px rgb(121, 118, 118);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+
+}
+
+
+.link {
+  padding: 50px;
+  font-size: 50px;
+}
+  /* Nav ( p intuito de promover uma separacao sem utilizacao do margin / span ( intuito de separar o link e dar um destaque na informacao    */
+nav {
+  padding: 30px;
+}
+span {
+  color: rgb(218, 105, 1);
+}
+form {
+  text-align: center;
+  padding: 80px;
+  margin: 150px;
+  border-radius: 30px;
+  border: solid 2px rgb(121, 118, 118);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  
+
+}
+.mensagemtext {
+font-size: 30px;
+}
